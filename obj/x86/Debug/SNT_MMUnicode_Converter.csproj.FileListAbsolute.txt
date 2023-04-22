@@ -1,0 +1,32 @@
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.exe
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.pdb
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Form1.resources
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Properties.Resources.resources
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csproj.GenerateResource.Cache
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.exe
+C:\Users\Manager01\documents\visual studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.pdb
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csprojResolveAssemblyReference.cache
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.exe
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.pdb
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.exe
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.pdb
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csprojResolveAssemblyReference.cache
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Form1.resources
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Properties.Resources.resources
+D:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csproj.GenerateResource.Cache
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.exe
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.pdb
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.exe
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.pdb
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csprojResolveAssemblyReference.cache
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Form1.resources
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Properties.Resources.resources
+E:\VSPublish\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csproj.GenerateResource.Cache
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.exe
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.pdb
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.exe
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\bin\Debug\SNT_MMUnicode_Converter.pdb
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csprojResolveAssemblyReference.cache
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Form1.resources
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.Properties.Resources.resources
+E:\vsprojects\SNT_MMUnicode_Converter\SNT_MMUnicode_Converter\obj\x86\Debug\SNT_MMUnicode_Converter.csproj.GenerateResource.Cache
